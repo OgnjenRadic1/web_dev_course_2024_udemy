@@ -19,3 +19,7 @@ By exploring these projects, you'll witness my progression from a novice to a pr
 #Links to all projects
 
 ## Movie Ranking Project [Link to first project](./section_2_project/index.html)
+
+## Birthday Invite Project [Link to second project](./section_3_project/index.html)
+
+## Portfolio Project [Link to third project](./section_4_project/index.html)
