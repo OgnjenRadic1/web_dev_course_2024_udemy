@@ -23,3 +23,5 @@ By exploring these projects, you'll witness my progression from a novice to a pr
 ## Birthday Invite Project [Link to second project](./section_3_project/index.html)
 
 ## Portfolio Project [Link to third project](./section_4_project/index.html)
+
+## Capstone Project [Link to capstone project](./section_4_capstone_project/index.html)
