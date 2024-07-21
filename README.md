@@ -25,3 +25,5 @@ By exploring these projects, you'll witness my progression from a novice to a pr
 ## Portfolio Project [Link to third project](./section_4_project/index.html)
 
 ## Capstone Project [Link to capstone project](./section_4_capstone_project/index.html)
+
+## Notes about HTML up to 5 section of the Course [Link to HTML notes](./useful_notes/notes_about_html.md)
