@@ -19,7 +19,14 @@
     font-weight: normal;
     animation: blink 1s step-start 0s infinite;
   }
-  
+  #blue{
+    color: blue;
+    font-weight: normal;
+  }
+  #orange{
+    color: orange;
+    font-weight: normal;
+  }
   @keyframes blink {
     50% {
       visibility: hidden;
