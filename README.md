@@ -30,4 +30,6 @@ By exploring these projects, you'll witness my progression from a novice to a pr
 
 ## Colour Vocab Website [Link to Colour Vocab project](./section_5_project/index.html)
 
+## Meme poster project [Meme project](./section_6_project/project/index.html)
+
 ## Notes about HTML up to 5 section of the Course [Link to HTML notes](./useful_notes/notes_about_html.md)
