@@ -1,0 +1,30 @@
+#red {
+    color: red;
+    font-weight: normal;
+}
+#blue {
+    color: blue;
+    font-weight: normal;
+}
+#orange {
+    color: orange;
+    font-weight: normal;
+}
+#green {
+    color: green;
+    font-weight: normal;
+}
+#yellow {
+    color: yellow;
+    font-weight: normal;
+}
+img{
+    margin-bottom: 8vh;
+    width: 400px;
+    height: 200px;
+}
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
