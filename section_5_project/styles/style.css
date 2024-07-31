@@ -1,56 +1,55 @@
 .color-title {
-    font-weight: normal;
-    font-size: 24px;
-    transition: font-weight 0.3s, font-size 0.3s;
+  font-weight: normal;
+  font-size: 24px;
+  transition: font-weight 0.3s, font-size 0.3s;
+}
+
+.color-title:hover {
+  font-weight: 700;
+  font-size: 30px;
+}
+
+#red {
+  color: red;
+  font-weight: normal;
+}
+
+#yellow {
+  color: yellow;
+  font-weight: normal;
+  animation: blink 1s step-start 0s infinite;
+}
+#blue {
+  color: blue;
+  font-weight: normal;
+}
+#orange {
+  color: orange;
+  font-weight: normal;
+}
+@keyframes blink {
+  50% {
+    visibility: hidden;
   }
-  
-  .color-title:hover {
-    font-weight: 700;
-    font-size: 30px;
-  }
-  
-  #red {
-    color: red;
-    font-weight: normal;
-  }
-  
-  #yellow {
-    color: yellow;
-    font-weight: normal;
-    animation: blink 1s step-start 0s infinite;
-  }
-  #blue{
-    color: blue;
-    font-weight: normal;
-  }
-  #orange{
-    color: orange;
-    font-weight: normal;
-  }
-  @keyframes blink {
-    50% {
-      visibility: hidden;
-    }
-  }
-  
-  img {
-    width: 200px;
-    height: 200px;
-    margin-bottom: 8vh;
-  }
-  
-  img[alt="orange"] {
-    border: 3px solid royalblue;
-    border-radius: 30px;
-  }
-  
-  img[alt="green"]:hover {
-    border-radius: 20px;
-  }
-  
-  body {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-  }
-  
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 8vh;
+}
+
+img[alt="orange"] {
+  border: 3px solid royalblue;
+  border-radius: 30px;
+}
+
+img[alt="green"]:hover {
+  border-radius: 20px;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
