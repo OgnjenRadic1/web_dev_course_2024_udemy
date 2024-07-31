@@ -26,4 +26,6 @@ By exploring these projects, you'll witness my progression from a novice to a pr
 
 ## Capstone Project [Link to capstone project](./section_4_capstone_project/index.html)
 
+## Colour Vocab Website [Link to Colour Vocab project](./section_5_project/index.html)
+
 ## Notes about HTML up to 5 section of the Course [Link to HTML notes](./useful_notes/notes_about_html.md)
