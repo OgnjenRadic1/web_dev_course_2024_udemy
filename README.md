@@ -18,7 +18,7 @@ By exploring these projects, you'll witness my progression from a novice to a pr
 
 # Link to Website main page [Main page](https://ognjenradic1.github.io/web_dev_course_2024_udemy/)
 
-#Links to all projects
+# Links to all projects
 
 ## Movie Ranking Project [Link to first project](./section_2_project/index.html)
 
