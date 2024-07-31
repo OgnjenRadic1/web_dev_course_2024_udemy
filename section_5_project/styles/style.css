@@ -27,6 +27,10 @@
   color: orange;
   font-weight: normal;
 }
+#green {
+  color: green;
+  font-weight: normal;
+}
 @keyframes blink {
   50% {
     visibility: hidden;
