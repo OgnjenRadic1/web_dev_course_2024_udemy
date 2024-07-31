@@ -16,6 +16,8 @@ This course, led by the App Brewery, is renowned for its comprehensive curriculu
 
 By exploring these projects, you'll witness my progression from a novice to a proficient fullstack developer. I'm excited to share my coding journey and demonstrate my commitment to mastering web development. Feel free to explore the projects, contribute, or reach out with any questions!
 
+# Link to Website main page [Main page](https://ognjenradic1.github.io/web_dev_course_2024_udemy/)
+
 #Links to all projects
 
 ## Movie Ranking Project [Link to first project](./section_2_project/index.html)
