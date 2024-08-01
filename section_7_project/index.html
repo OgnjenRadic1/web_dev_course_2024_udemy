@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>CSS Flag Project</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+    }
+    #flag {
+      position: relative;
+      width: 900px;
+      height: 600px;
+      border: 5px solid black;
+      margin: 0 auto;
+    }
+    .flag-color {
+      width: 900px;
+      height: 200px;
+      position: absolute; 
+      left: 0;
+    }
+    #red {
+      background-color: red;
+      top: 0;
+    }
+    #blue {
+      background-color: blue;
+      top: 200px; 
+      z-index: 1;
+    }
+    #white {
+      background-color: white;
+      top: 400px; 
+      z-index: 0; 
+    }
+    #flag > #blue > img {
+      position: absolute;
+      top: -50px; 
+      left: 200px; 
+      border-radius: 0 0 50% 50%;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="flag">
+    <div id="red" class="flag-color"></div>
+    <div id="blue" class="flag-color">
+      <img src="serbian-flag.jpg" alt="serbian sign image" width="100px" height="300px">
+    </div>
+    <div id="white" class="flag-color"></div>
+  </div>
+
+</body>
+</html>
