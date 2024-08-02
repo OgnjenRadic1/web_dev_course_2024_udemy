@@ -34,4 +34,6 @@ By exploring these projects, you'll witness my progression from a novice to a pr
 
 ## Flag project [Flag project](./section_7_project/index.html)
 
+## Agency project [Agency project](./section_8_project/index.html)
+
 ## Notes about HTML up to 5 section of the Course [Link to HTML notes](./useful_notes/notes_about_html.md)
