@@ -36,4 +36,6 @@ By exploring these projects, you'll witness my progression from a novice to a pr
 
 ## Agency project [Agency project](./section_8_project/index.html)
 
+## Flexbox pricing project [Flexbox pricing project](./section_9_project/index.html)
+
 ## Notes about HTML up to 5 section of the Course [Link to HTML notes](./useful_notes/notes_about_html.md)
